@@ -1,4 +1,4 @@
-# hitman
+# Hitman
 Game design inspired by the popular Hitman Go game
 
 Designed and developed by a team of 3 game engineers in training using Unity3D in 2 weeks. 
